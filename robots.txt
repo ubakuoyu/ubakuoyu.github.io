@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubakuoyu.github.io/cZG/sitemap_index.txt
+Sitemap: https://ubakuoyu.github.io/hDN/sitemap_index.txt
+Sitemap: https://ubakuoyu.github.io/lnK/sitemap_index.txt
+Sitemap: https://ubakuoyu.github.io/nbC/sitemap_index.txt
